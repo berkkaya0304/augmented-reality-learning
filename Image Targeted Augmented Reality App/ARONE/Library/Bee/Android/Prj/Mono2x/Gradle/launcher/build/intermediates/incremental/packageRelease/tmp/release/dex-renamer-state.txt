@@ -1,0 +1,4 @@
+#Wed Jun 19 20:08:37 TRT 2024
+base.0=D\:\\CodingProjects\\ARONE\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
